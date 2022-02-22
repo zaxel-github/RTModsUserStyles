@@ -1,2 +1,2 @@
-# retrotube-themes
-Themes for retrotube.ml/forzatv.ml
+# Hyperion+
+Themes and plugins for Hyperion (hyperiontv.tk)

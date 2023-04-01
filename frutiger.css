@@ -1,0 +1,25 @@
+.header, .footer {
+    background: linear-gradient(180deg, rgba(99, 102, 104, 0.9) 0%, rgba(69, 71, 71, 0.9) 50.52%, rgba(52, 52, 52, 0.9) 53.12%, rgba(0, 0, 0, 0.9) 100%);
+box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3), inset 0px 2px 1px rgba(255, 255, 255, 0.3), inset 0px -2px 1px rgba(0, 0, 0, 0.4);
+}
+.brand-logo > .lgoolol {
+    content: url('https://github.com/ky-1/RTMods/blob/main/hyperion_LQ(1).png?raw=true') !important;
+}
+.header-button {
+    background: linear-gradient(180deg, rgba(99, 102, 104, 0.9) 0%, rgba(69, 71, 71, 0.9) 50.52%, rgba(52, 52, 52, 0.9) 53.12%, rgba(0, 0, 0, 0.9) 100%);
+    color: #FFF;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.card.message {
+background: linear-gradient(180deg, rgba(83, 85, 87, 0.9) 0%, rgba(14, 15, 15, 0.9) 100%);
+box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3), inset 0px 2px 1px rgba(255, 255, 255, 0.3), inset 0px -2px 1px rgba(0, 0, 0, 0.4);
+    border: 1px solid black;
+    color: #FFF;
+}
+.card-header {
+    color: #FFF !important;
+}
+.card > ul > li {
+    color: #FFF;
+}
